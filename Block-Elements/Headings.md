@@ -1,6 +1,6 @@
 # Headings 
 
-Examples:
+✔ Examples:
 
     # Heading 1
     ## Heading 2
@@ -9,7 +9,7 @@ Examples:
     ##### Heading 5
     ###### Heading 6
 
-Results:
+✔ Results:
 
 # Heading 1
 ## Heading 2
